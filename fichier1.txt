@@ -1,1 +1,3 @@
 Ceci est un fichier 1 qui peut contenir des informations personnelles
+
+Mais en réalité, rien de bien méchant !
